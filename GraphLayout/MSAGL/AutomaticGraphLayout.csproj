@@ -3,7 +3,8 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+   <TargetFramework>netstandard2.0</TargetFramework>
+    <!-- <TargetFramework>net7.0</TargetFramework> -->
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)'=='Release'">
     <DefineConstants>TEST_MSAGL;TEST_MSAGL</DefineConstants>

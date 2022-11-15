@@ -138,7 +138,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Drawing\AutomaticGraphLayout.Drawing.csproj" />
     <ProjectReference Include="..\..\MSAGL\AutomaticGraphLayout.csproj" />
-    <ProjectReference Include="..\..\Tools\GraphViewerGDI\GraphViewerGDI.csproj" />
+    <ProjectReference Include="..\..\tools\GraphViewerGDI\GraphViewerGDI.csproj" />
     <ProjectReference Include="..\DrawingFromGeometryGraphSample\DrawingFromGeometryGraphSample.csproj" />
   </ItemGroup>
   <ItemGroup>

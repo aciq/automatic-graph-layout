@@ -9,7 +9,7 @@
     <ProjectReference Include="..\..\Drawing\AutomaticGraphLayout.Drawing.csproj" />
     <ProjectReference Include="..\..\MSAGL\AutomaticGraphLayout.csproj" />
     <ProjectReference Include="..\..\Test\TestFormForGViewer\TestFormForGViewer.csproj" />
-    <ProjectReference Include="..\..\Tools\GraphViewerGDI\GraphViewerGDI.csproj" />
+    <ProjectReference Include="..\..\tools\GraphViewerGDI\GraphViewerGDI.csproj" />
   </ItemGroup>
 
 </Project>
